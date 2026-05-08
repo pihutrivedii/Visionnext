@@ -100,8 +100,6 @@ This repository contains project screenshots and documentation only.
 
 Full source code is available separately for purchase.
 
-### Price
-₹500 INR
 
 Includes:
 - Complete Django Source Code
