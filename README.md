@@ -46,31 +46,13 @@ VisionNext is a modern Django-based learning platform that provides users with i
 
 ![Screenshot 3](3.png)
 
-![Screenshot 4](4.png)
-
-![Screenshot 5](5.png)
-
-![Screenshot 6](6.png)
-
-![Screenshot 7](7.png)
-
 ![Screenshot 8](8.png)
 
-![Screenshot 9](9.png)
-
-![Screenshot 10](10.png)
-
-![Screenshot 11](11.png)
-
 ![Screenshot 12](12.png)
-
-![Screenshot 13](13.png)
 
 ![Screenshot 14](14.png)
 
 ![Screenshot 15](15.png)
-
-![Screenshot 16](16.png)
 
 
 ---
