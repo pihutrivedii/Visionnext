@@ -1,8 +1,8 @@
-# VisionNext
+# VisionNext Course Management System
 
 ## Overview
 
-VisionNext is a modern Django-based learning platform that provides users with interactive course access, secure authentication, payment integration, video learning content, and downloadable PDF resources. The application is designed with a responsive user interface and dynamic Django functionality to deliver a smooth learning experience.
+VisionNext course Management system is a modern Django-based learning platform that provides users with interactive course access, secure authentication, payment integration, video learning content, and downloadable PDF resources. The application is designed with a responsive user interface and dynamic Django functionality to deliver a smooth learning experience.
 
 ---
 
@@ -90,4 +90,29 @@ python manage.py runserver
 ## Open in Browser
 http://127.0.0.1:8000/
 
+
+## Source Code Access
+
+This repository contains project screenshots and documentation only.
+
+Full source code is available separately for purchase.
+
+### Price
+₹500 INR
+
+Includes:
+- Complete Django Source Code
+- Payment Integration
+- Video Upload System
+- PDF Download Feature
+- Authentication System
+- Installation Guidance
+
+Contact for purchase details.
+
+## Contact
+
+For source code purchase or collaboration:
+
+- Email: trivedipriyaa1110@gmail.com
 
