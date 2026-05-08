@@ -1,19 +1,24 @@
 # VisionNext
 
 ## Overview
-VisionNext is a modern Django-based web application designed to provide users with an interactive and user-friendly platform for exploring courses, services, and profile management features.
+
+VisionNext is a modern Django-based learning platform that provides users with interactive course access, secure authentication, payment integration, video learning content, and downloadable PDF resources. The application is designed with a responsive user interface and dynamic Django functionality to deliver a smooth learning experience.
 
 ---
 
 ## Features
 
-- User Authentication
-- Course Categories
-- Payment Integration
+- User Authentication System
+- Course Categories & Course Details
+- Video Course Upload & Access
+- PDF Notes & Resource Download
+- Payment Integration System
+- Payment Success & Failure Handling
 - User Profile Management
 - Responsive UI Design
-- Service Pages
 - Contact & Feedback System
+- Dynamic Django Templates
+- Media File Upload Support
 
 ---
 
